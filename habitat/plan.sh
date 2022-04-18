@@ -14,7 +14,7 @@ pkg_origin=lc_tryhabitat
 
 # Required.
 # Sets the version of the package
-pkg_version="0.1.0"
+pkg_version="0.2.0"
 
 # Optional.
 # The name and email address of the package maintainer.
@@ -55,7 +55,7 @@ pkg_shasum="TODO"
 # An array of package dependencies needed at runtime. You can refer to packages
 # at three levels of specificity: `origin/package`, `origin/package/version`, or
 # `origin/package/version/release`.
-pkg_deps=(core/imagemagick/7.0.9-9/20200404072903)
+pkg_deps=(lc_tryhabitat/imagemagick/7.0.9-9)
 # core/busybox-static/1.31.0/20200306011713)core/busybox-static/1.33.0/20210826062032
 
 # Optional.
